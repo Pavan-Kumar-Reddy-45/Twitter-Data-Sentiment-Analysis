@@ -1,5 +1,3 @@
-# Twitter-Data-Sentiment-Analysis
-
 # Twitter Sentiment Analysis: Detecting Hate Speech in Tweets
 
 # Objective:
